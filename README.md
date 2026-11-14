@@ -1,0 +1,2 @@
+# Pattern-Based-Stabilizer-Tripwire-Quantum-Entanglement-Attack-Simulation
+The purpose of the simulation is to demonstrate how error patterns can deprive Eve from learning information about the logical bits through entanglement. In standard QKD protocols, Eve can entangle an ancilla with the transmitted qubit and wait for Bob to publicly announce his basis choice. The strategy cannot work in this case.
